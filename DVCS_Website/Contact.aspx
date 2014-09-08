@@ -26,17 +26,10 @@
             <h3>Email:</h3>
         </header>
         <p>
-            <span class="label">Support:</span>
-            <span><a href="mailto:Support@example.com">Support@example.com</a></span>
+            <span class="label">Main:</span>
+            <span><a href="mailto:tsidorchuk1@studentmail.nait.ca">tsidorchuk1@studentmail.nait.ca</a></span>
         </p>
-        <p>
-            <span class="label">Marketing:</span>
-            <span><a href="mailto:Marketing@example.com">Marketing@example.com</a></span>
-        </p>
-        <p>
-            <span class="label">General:</span>
-            <span><a href="mailto:General@example.com">General@example.com</a></span>
-        </p>
+        
     </section>
 
     <section class="contact">
